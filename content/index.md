@@ -1,7 +1,6 @@
 ---
 title: Home
 draft: false
-tags
 ---
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 2em;">
