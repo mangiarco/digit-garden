@@ -1,2 +1,0 @@
-- [How I find time for EVERYTHING (even with a full time job)](https://www.youtube.com/watch?v=nXyPLFQeddA&ab_channel=KevZ) (Youtube)
-- [How to Achieve More in 1 Week than Most People Do in 12 months](https://www.youtube.com/watch?v=-oXigF0frLE&ab_channel=ClarkKegley) (Youtube)

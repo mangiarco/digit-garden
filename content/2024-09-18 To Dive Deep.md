@@ -1,6 +1,0 @@
-- [Mindstorming tecnique](https://www.facebook.com/share/r/hB9is9TQAJUi1Qp1/) #Mindstorming
-- [Te dark truth about self improvement](https://www.facebook.com/share/r/jjEhzbevzWnUefNu/) #SelfImprovement #SelfAcceptance
-- [Pausing in Public Speaking](https://www.facebook.com/share/r/Q9GVdbCC7tC4XMxu/) #PublicSpeaking
-- [How to finish more in less time](https://www.linkedin.com/posts/ajay-kumar-644582244_28-activity-7240987553758093312-ldfz?utm_source=share&utm_medium=member_android) #TimeManagement #Efficiency #Visual
-- [SOLID Method: come mantenere pulito il codice](https://www.linkedin.com/posts/datapizza_come-mantenere-un-codice-pulito-activity-7242145361073496064-d_Nc?utm_source=share&utm_medium=member_desktop) #SOLID #Programming
-- [MrBeast Onboardin Doc (Leaked)](https://www.linkedin.com/posts/tom-alder_mrbeast-production-rulebook-activity-7241415665838915585-h4D6?utm_source=share&utm_medium=member_desktop) #Youtube #Onboarding

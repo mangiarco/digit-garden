@@ -1,1 +1,0 @@
-- [Project Management Superstitions](https://www.linkedin.com/posts/projectmanagementinstitute_project-management-superstitions-activity-7240371147026894848-7zKR/?utm_source=share&utm_medium=member_android) #ProjectManagement #Superstition #Visual

@@ -1,2 +1,0 @@
-- **Markmind addon (Obsidian)**
-- 

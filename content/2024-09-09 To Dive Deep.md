@@ -1,1 +1,0 @@
-- [10 Powerful visuals to build a long term activity](https://www.linkedin.com/posts/benmeer_10-powerful-visuals-to-build-a-long-term-activity-7235258636816556033-keio/?utm_source=share&utm_medium=member_android) 
