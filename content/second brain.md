@@ -8,7 +8,7 @@ tags:
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 2em;">
 
-  <img src="https://media3.giphy.com/media/Vh8rn8b2n6rL6zpNGS/giphy.gif?cid=7941fdc67ktpdffzna0tfeio9sodfn9xjbodgxmx37ivc1hb&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="" style="width: 250px; height: auto; border-radius: 8px;" />
+  <img src="https://media3.giphy.com/media/Vh8rn8b2n6rL6zpNGS/giphy.gif?cid=7941fdc67ktpdffzna0tfeio9sodfn9xjbodgxmx37ivc1hb&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="" style="width: 250px; height: auto; border-radius: 1000px;" />
 
   <div>
     <h3>Hello there</h3>
@@ -25,7 +25,8 @@ Before diving deep into what a **second brain** is and what it's used for, and m
 
 Probably you don’t know this, or maybe you’re not even interested, but I usually used Google Chrome as a browser on all my devices. I have a lot of tabs open on both my smartphone (I’m always at +99 counter) and PC. When a colleague of mine showed me (*thank you Szymon* 🖤) the [Google Chrome feature that allows you to group tabs](https://blog.google/products/chrome/manage-tabs-with-google-chrome/), my first honest thought was: ***This gonna change my life!*** 
 
-![](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Tab-Groups-Organization-Example_v1r1.gif)
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Chrome_Tab-Groups_In-Line-Image-v7.gif" alt="" style="width: 70%; height: 70%; border-radius: 1000px;" />
+
 
 And that was true! I discovered a super useful feature that I already use while browsing, but what I was referring to at that time was something different.
 
@@ -33,7 +34,7 @@ Back then, I thought that what I had found was a solution for the information ma
 
 <div style="display: flex; align-items: left; gap: 20px; margin-bottom: 2em;">
 
-  <img src="https://media0.giphy.com/media/Ty9Sg8oHghPWg/giphy.gif?cid=7941fdc63t1jxy6wimiaphfetbkvd1c2e19etn8g03cptwik&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="" style="width: 250px; height: auto; border-radius: 8px;" />
+  <img src="https://media0.giphy.com/media/Ty9Sg8oHghPWg/giphy.gif?cid=7941fdc63t1jxy6wimiaphfetbkvd1c2e19etn8g03cptwik&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="" style="width: 250px; height: auto; border-radius: 1000px;" />
 
   <div>
     <p>
@@ -50,13 +51,6 @@ I have to admit: I’ve discoreved Obsidian too late (*thank you Lele* 🖤), ha
 > «The best time to plant a tree was 20 years ago. The second best time is now»
 > 
 
-And now that time as come.
-<iframe 
-  src="https://lucid.app/lucidchart/3977c8eb-5600-4a7b-8c1d-2fdb845e8dc5/edit?view_items=wnE9OOOZXXi6&invitationId=inv_41e8ab53-bf9d-4ea7-9af0-89379d456714">
-</iframe>
-
----
-
 ## What is a “Second brain”?
 > [quote]
 > What the f@ck is a Second Brain? Is it “really” a second Brain? (semicit.)
@@ -69,7 +63,7 @@ And now that time as come.
     </p>
   </div>
 
-  <img src="https://media1.tenor.com/m/yRUeMoLBNXUAAAAd/sbreeenfff-pacchetto-azionario-boris-pacchetto-azionario.gif" alt="" style="width: 250px; height: auto; border-radius: 8px;" />
+  <img src="https://media1.tenor.com/m/yRUeMoLBNXUAAAAd/sbreeenfff-pacchetto-azionario-boris-pacchetto-azionario.gif" alt="" style="width: 250px; height: auto; border-radius: 1000px;" />
 
 </div>
 

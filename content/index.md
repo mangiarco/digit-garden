@@ -5,7 +5,7 @@ draft: false
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 2em;">
 
-  <img src="https://media1.tenor.com/m/nl-Ln2NgHFgAAAAd/what-is-this-place-ewan-mcgregor.gif" alt="" style="width: 200px; height: auto; border-radius: 8px;" />
+  <img src="https://media1.tenor.com/m/nl-Ln2NgHFgAAAAd/what-is-this-place-ewan-mcgregor.gif" alt="" style="width: 200px; height: auto; border-radius: 10px;" />
 
   <div>
     <h3>Hello there</h3>

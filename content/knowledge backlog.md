@@ -6,6 +6,12 @@ tags:
 ---
 
 ## Articles
+- [Digital gardens let you cultivate your own little bit of the internet](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/)
+- [I giardini digitali: cosa succede quando il web esce dagli schemi?](https://www.shots.it/news/i-giardini-digitali-cosa-succede-quando-il-web-esce-dagli-schemi)
+
+## Books
+- [Horror Pleni. La (in)civiltà del rumore](https://www.amazon.it/Horror-Pleni-civilt%C3%A0-del-rumore/dp/8876152253), Gillo Dorfles
+- [Flow. Psicologia dell'esperienza ottimale](https://www.amazon.it/Psicologia-dellesperienza-ottimale-Mih%C3%A1ly-Cs%C3%ADkszentmih%C3%A1lyi/dp/8836200389/ref=sr_1_1?sr=8-1), Mihály Csíkszentmihályi
 
 ## Posts
 - [10 Powerful visuals to build a long term activity](https://www.linkedin.com/posts/benmeer_10-powerful-visuals-to-build-a-long-term-activity-7235258636816556033-keio/?utm_source=share&utm_medium=member_android) 
@@ -24,3 +30,12 @@ tags:
 ## Videos
 - [How I find time for EVERYTHING (even with a full time job)](https://www.youtube.com/watch?v=nXyPLFQeddA&ab_channel=KevZ)
 - [How to Achieve More in 1 Week than Most People Do in 12 months](https://www.youtube.com/watch?v=-oXigF0frLE&ab_channel=ClarkKegley)
+- [I'm 40. If You're In Your 20's or 30's, Watch This](https://www.youtube.com/watch?v=3iMc8uF46C0), Simon Alexander Ong
+- [La GUERRA che non sapevi di star PERDENDO](https://www.youtube.com/watch?v=Ubwhbml2vLE), Andrea Muzii
+- [How To Simplify Your Life](https://www.youtube.com/watch?v=7lECIsRif10), The School of Life
+- 
+## Wikis
+- [Fine della storia](https://it.wikipedia.org/wiki/Fine_della_storia)
+
+## Words
+- [Emendazione](https://www.treccani.it/vocabolario/emendazione/)
