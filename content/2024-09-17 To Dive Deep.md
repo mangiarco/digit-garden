@@ -1,4 +1,0 @@
-- []()
-- [How to Remember (Nearly) Everything You Learn](https://www.linkedin.com/posts/luketobin_secrets-of-ultra-learners-follow-luke-tobin-ugcPost-7241765547346997249-saCN/?utm_source=share&utm_medium=member_android) #Learning #Memory
-- [Isn't Weird How Many Version of yourself exists?](https://www.facebook.com/share/r/edsr3wXZbsKFTotB/) #Identity #SelfAcceptance 
-- [Shia Lebouf: Just Do It](https://www.facebook.com/share/r/vzpkNX2q8VrB6xiT/) #Motivation
