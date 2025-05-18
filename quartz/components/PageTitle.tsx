@@ -7,11 +7,9 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   const title = cfg?.pageTitle ?? i18n(cfg.locale).propertyDefaults.title
   const baseDir = pathToRoot(fileData.slug!)
   return (
-    <a href="https://mangiarco.github.io/digit-garden">
       <h2 class={classNames(displayClass, "page-title")} align="center">
         <img src='https://i.ibb.co/HLgwd8B7/swan.png' style={{ width: "45%" }}/>
       </h2>
-    </a>
   )
 }
 
