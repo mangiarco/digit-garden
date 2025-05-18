@@ -1,6 +1,6 @@
 ---
 title: Second brain
-draft: false
+draft: true
 tags:
   - secondbrain
   - KMS

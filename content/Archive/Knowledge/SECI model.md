@@ -8,7 +8,8 @@ tags:
 
 **SECI** -> Socilization, Externalization, Combination and Internalization
 
-<img src="../images/seci model.png" width="300" />
+<img src="../images/seci model.png" width="600" />
+
 ---
 ### Sources
 - [The SECI Model: Knowledge Creation in the Cycle of Subjectivity and Objectivity
