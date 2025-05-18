@@ -1,4 +1,10 @@
-Source: [becoming smart is easy, actually](https://www.youtube.com/watch?v=C5OJJD3Eytk&ab_channel=easy%2Cactually)
+---
+title: intelligence
+draft: false
+tags:
+  - knowledge
+---
+
 
 #Insegnare alle altre persone le cose senza farli sembrare stupidi
 
@@ -9,4 +15,8 @@ Source: [becoming smart is easy, actually](https://www.youtube.com/watch?v=C5OJJ
 fine.
 
 ### Rank delle fonti per imparare le cose
-![[rank_learning_source.png|500]]
+<img src="../images/rank_learning_source.png" />
+
+---
+### Sources
+- [becoming smart is easy, actually](https://www.youtube.com/watch?v=C5OJJD3Eytk&ab_channel=easy%2Cactually)

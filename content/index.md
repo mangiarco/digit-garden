@@ -16,6 +16,9 @@ draft: false
 
 </div>
 
+  <a href='https://www.free-counters.org/'>free-counters.org</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=234e4faa0ae6f848348d23c3fdb470859c2cabb5'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1341852/t/5"></script>
+
 All this is: 
 - based on [Quartz](https://github.com/jackyzha0/quartz), a fast static-site generator that transforms Markdown content into fully functional websites,
 - hosted in [Github](https://github.com/), a cloud-based platform where you can store/share/work together with others, that allows since 2016 to publish public repository with Pages, and 
