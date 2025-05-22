@@ -1,5 +1,4 @@
 ---
-title: No surf movements
 draft: false
 tags:
   - nosurf
