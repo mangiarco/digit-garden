@@ -13,3 +13,6 @@ tags:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Panopticon.jpg/800px-Panopticon.jpg" alt="" style="max-width: 100%; height: auto;">
   <img src="https://upload.wikimedia.org/wikipedia/en/e/e1/Panopticon_Willey_Reveley_1791.png" alt="Immagine 2" style="max-width: 100%; height: auto;">
 </div>
+
+### Sources
+- **[Sorvegliare e punire](../Bookshelf.md)**, *M. Foucault*, *ET Saggi*, *2014*, *340pp*
