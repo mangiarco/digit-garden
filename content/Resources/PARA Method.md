@@ -1,5 +1,4 @@
 ---
-title: Poalnyi's Paradox
 draft: false
 tags:
   - PARA
