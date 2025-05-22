@@ -14,7 +14,7 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p align="center">
-          <a href="https://quartz.jzhao.xyz/"><img src="https://img.shields.io/badge/License-CC_BY_4.0-blue.svg?style=flat" /></a>
+          <a href="../../content/licence.md"><img src="https://img.shields.io/badge/License-CC_BY_4.0-blue.svg?style=flat" /></a>
         </p>
       </footer>
     )
