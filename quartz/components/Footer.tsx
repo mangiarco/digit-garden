@@ -14,7 +14,7 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p align="center">
-          <a href="../../content/licence.md"><img src="https://img.shields.io/badge/License-CC_BY_4.0-blue.svg?style=flat" /></a>
+          <a href="https://mangiarco.github.io/digit-garden/licence"><img src="https://img.shields.io/badge/License-CC_BY_4.0-blue.svg?style=flat" /></a>
         </p>
       </footer>
     )
