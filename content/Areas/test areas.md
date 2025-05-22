@@ -1,6 +1,6 @@
 ---
 draft: false
 tags:
-  - paradox
-  - knowledge
+  - test
+  - areas
 ---

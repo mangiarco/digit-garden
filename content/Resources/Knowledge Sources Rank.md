@@ -1,8 +1,8 @@
 ---
-title: Knowledge sources rank
 draft: false
 tags:
   - knowledge
+  - rank
 ---
 
 <img src="../images/rank_learning_source.png" width="600" />

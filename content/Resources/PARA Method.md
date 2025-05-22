@@ -2,8 +2,9 @@
 draft: false
 tags:
   - PARA
-  - Thiago Forte
-  - Second Brain
+  - thiagoforte
+  - secondbrain
+  - kms
 ---
 
 The **PARA method** was created by productivity expert Tiago Forte in the 2010s. It emerged from his exploration of the most natural and effortless way to organize information—by projects—and evolved through experimentation with thousands of students and followers. 

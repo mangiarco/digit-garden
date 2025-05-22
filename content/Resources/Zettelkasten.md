@@ -1,6 +1,6 @@
 ---
 draft: false
 tags:
-  - paradox
+  - xettelkasten
   - knowledge
 ---

@@ -1,9 +1,9 @@
 ---
-title: Reading habits in EU
 draft: false
 tags:
   - reading
   - eu
+  - data
 ---
 
 All EU countries read more than Italy (where only 40% of people read books), except Cyprus and Romania.
