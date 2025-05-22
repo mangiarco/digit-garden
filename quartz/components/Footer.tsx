@@ -15,7 +15,8 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
-          Unless otherwise noted, all content on this site is licensed under the <a href="https://quartz.jzhao.xyz/"><img src="https://img.shields.io/badge/License-CC_BY_4.0-blue.svg?style=flat" /></a> © {year}
+          <a href="https://quartz.jzhao.xyz/"><img src="https://img.shields.io/badge/License-CC_BY_4.0-blue.svg?style=flat" /></a>
+          mangiarco's digital garden © {year} Unless otherwise noted, all content on this site is licensed under the Creative Commons Attribution 4.0 International License
         </p>
       </footer>
     )
