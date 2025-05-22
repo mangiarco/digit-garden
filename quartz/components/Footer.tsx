@@ -12,11 +12,18 @@ export default ((opts?: Options) => {
     const year = new Date().getFullYear()
     const links = opts?.links ?? []
     return (
-      <footer class={`${displayClass ?? ""}`}>
-        <p>
-          <a href="https://mangiarco.github.io/digit-garden/licence"><img src="https://img.shields.io/badge/License-CC_BY_4.0-blue.svg?style=flat" /></a>
-        </p>
-      </footer>
+<footer class={`${displayClass ?? ""}`}>
+  <p style="text-align: center;">
+    <a href="https://mangiarco.github.io/digit-garden/licence">
+      <img src="https://img.shields.io/badge/License-CC_BY_4.0-blue.svg?style=flat" alt="License Badge" />
+    </a>
+    &nbsp;|&nbsp;
+    <img
+      src="https://visitor-badge.laobi.icu/badge?page_id=mangiarco.github.io/digit-garden&label=Page%20Views"
+      alt="Page Views"
+    />
+  </p>
+</footer>
     )
   }
   Footer.css = style
