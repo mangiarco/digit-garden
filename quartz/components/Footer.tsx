@@ -17,7 +17,7 @@ export default ((opts?: Options) => {
     <a href="https://mangiarco.github.io/digit-garden/licence">
       <img src="https://img.shields.io/badge/License-CC_BY_4.0-blue.svg?style=flat" alt="License Badge" />
     </a>
-    &nbsp;|&nbsp;
+    &nbsp;&nbsp;
     <img
       src="https://visitor-badge.laobi.icu/badge?page_id=mangiarco.github.io/digit-garden&label=Page%20Views"
       alt="Page Views"
