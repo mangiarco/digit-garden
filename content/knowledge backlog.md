@@ -4,6 +4,9 @@ tags:
   - tbr
 ---
 
+# Apps
+- https://raindrop.io/ (All-in-one bookmark manager) - [post reddit](https://www.reddit.com/r/Italia/comments/1ktnrdi/qual_%C3%A8_quella_cosa_online_gratuita_che_tutti/)
+
 ## Articles
 - [Digital gardens let you cultivate your own little bit of the internet](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/)
 - [I giardini digitali: cosa succede quando il web esce dagli schemi?](https://www.shots.it/news/i-giardini-digitali-cosa-succede-quando-il-web-esce-dagli-schemi)
