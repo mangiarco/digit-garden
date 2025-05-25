@@ -6,6 +6,10 @@ tags:
 # Ethical Approach
 > *Knowledge is not something to be hidden away, but a treasure to be shared freely* 
 > (A. Einstein)
+>
+
+<p aling="center"><iframe src="https://www.amazon.it"></iframe></p>
+
 
 I will soon share a digital copy of the volumes to allow you free access to this valuable knowledge. However, by receiving this access, you agree to an ethical commitment: if you find the information useful and decide to benefit from it, please support the author by purchasing either a digital or physical copy of the book. This ensures that creators are fairly compensated for their work, allowing them to continue producing quality content for everyone’s benefit. 
 
