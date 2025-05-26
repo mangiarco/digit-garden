@@ -10,7 +10,7 @@ These are the core guidelines for applying the framework and **must** be used in
 
 They are:
 
-<img src="./images/scrum_principles.png" style="max-width: 60%" />
+<img src="../../images/scrum_principles.png" style="max-width: 60%" />
 
 ## Control Over Empirical Process  
 This principle highlights the core of the Scrum philosophy, based on three main ideas:  
