@@ -1,4 +1,5 @@
 ---
+title: Ignorance
 draft: false
 tags:
   - memex
