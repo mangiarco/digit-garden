@@ -20,7 +20,7 @@ tags:
 
 Before diving deep into what a **second brain** is and what it's used for, and more specifically into what I think it is and how it can serve us, let me take a moment to share the story behind my decision to build it, as well as the purpose of this space overall.
 
-## Good News and Problem Recognition
+# Good News and Problem Recognition
 
 Probably you don’t know this, or maybe you’re not even interested, but I usually used Google Chrome as a browser on all my devices. I have a lot of tabs open on both my smartphone (I’m always at +99 counter) and PC. When a colleague of mine showed me (*thank you Szymon* 🖤) the [Google Chrome feature that allows you to group tabs](https://blog.google/products/chrome/manage-tabs-with-google-chrome/), my first honest thought was: ***This gonna change my life!*** 
 
@@ -50,7 +50,7 @@ I have to admit: I’ve discoreved Obsidian too late (*thank you Lele* 🖤), ha
 > «The best time to plant a tree was 20 years ago. The second best time is now»
 > 
 
-## What is a “Second brain”?
+# What is a “Second brain”?
 > [quote]
 > What the f@ck is a Second Brain? Is it “really” a second Brain? (semicit.)
 
@@ -68,7 +68,7 @@ I have to admit: I’ve discoreved Obsidian too late (*thank you Lele* 🖤), ha
 
 This system literally work as an extension of our real brain and memory, allowing us to free our minds from memonic works and focusing on creative a strategic thinking. In our times, we know, manging information in an efficient way is crucial to ensure productivity and personal growth, and living w/o a tool like during the information era is a (loser) choice under multiple points of view (not only productivity, but also remember and knwoledge *tout court*).
 
-## Useful links
+# Sources
 
 - [**Your Second Brain, Entirely in Notion**](https://thomasjfrank.com/brain/)
 - [**Building my second brain  with Obsidian**](https://forum.obsidian.md/t/building-my-second-brain-with-obsidian/62934/1)
