@@ -37,4 +37,4 @@ The method encourages starting with an active project, gathering all related not
 
 This approach helps maintain focus, streamline progress, and integrate learning continuously, making PARA a practical and flexible system for managing knowledge and tasks.
 
-The PARA method was introduced and popularized by Tiago Forte in his book [Building a Second Brain](./second%20brain.md). In this work, Forte presents PARA as a flexible and universal framework designed to help individuals organize their digital information efficiently, enabling better productivity and creativity by keeping projects, areas, resources, and archives clearly separated and easily accessible.
+The PARA method was introduced and popularized by Tiago Forte in his book [Building a Second Brain](./Books/il%20tuo%20secondo%20cervello.md). In this work, Forte presents PARA as a flexible and universal framework designed to help individuals organize their digital information efficiently in a [second brain](./Second%20Brain.md), enabling better productivity and creativity by keeping projects, areas, resources, and archives clearly separated and easily accessible.
