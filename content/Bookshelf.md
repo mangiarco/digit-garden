@@ -12,21 +12,11 @@ I will soon share a digital copy of the volumes to allow you free access to this
 
 **Unlocking knowledge without cost encourages curiosity and innovation, but this advantage does not come without the responsibility of sustain the valuable cycle of creation**.
 
-# TBR
--[]()
-|Books|Graphic novels|
-|---|---|
-|- []()|-[]()|
-|-[]()|-[]()|
-
-# Currently reading
-- **[Elogio dell'ignoranza e dell'errore]()**, *G. Carofiglio*, *Einaudi editore*, *2024*, *87pp* 
-
-# Read
-- **Athomic Habits. Piccole abitudini per grandi cambiamenti**, *J. Clear, A. Garavaglia*, *De Agostini*, *2019*, *347pp*
-- **[Il tuo secondo cervello: Un metodo senza precedenti per organizzare le informazioni e aumentare la tua efficienza](./Resources/second%20brain.md)**, *Thiago Forte*, *Sperling & Kupfer*, *2022*, *286pp*
-- **La buona logica. Imparare a pensare**, *A. Massarenti, P. Legrenzi*, *Raffaello Cortina Editore*, *2016*, *94pp*
-- **Minimalismo digitale: Rimettere a fuoco la propria vita in un mondo pieno di distrazioni**, *C. Newport*, *ROI Edizioni*, *2019*, *284pp*
-- **Sorvegliare e punire**, *M. Foucault*, *ET Saggi*, *2014*, *340pp*
+- [Elogio dell'ignoranza e dell'errore](./Resources/Books/Elogio%20dell'ignoranza%20e%20dell'errore.md)
+- [Athomic Habits. Piccole abitudini per grandi cambiamenti](./Resources/Books/athomic%20habits.md)
+- **[Il tuo secondo cervello: Un metodo senza precedenti per organizzare le informazioni e aumentare la tua efficienza](./Resources/Books/il%20tuo%20secondo%20cervello.md)
+- [La buona logica. Imparare a pensare](./Resources/Books/la%20buona%20logica.md)
+- [Minimalismo digitale: Rimettere a fuoco la propria vita in un mondo pieno di distrazioni](./Resources/Books/minimalismo%20digitale.md)
+- [Sorvegliare e punire](./Resources/Books/Sorvegliare%20e%20punire.md)
 
 
