@@ -39,6 +39,23 @@ tags:
 ## Media
 - [The Social Dilemma - Netflix](https://www.netflix.com/title/81254224)
 - [Screened Out - Prime Video](https://www.primevideo.com/-/pl/detail/Screened-Out/0RF85LIA7DZOIGN1EEIYTCINDX)
+
+### The Social Dilemma (Netflix, Jeff Orlowski, 2020)
+- Center for Humane Technology
+Se non paghi il prodotto, il prodotto sei tu. Secondo J. Lanier quello che paghiamo, il prodotto, è il "*graduale e impercettibile cambiamento della nostra percezione e del nostro comportamento*".
+
+Secondo sempre Lanier "*abbiamo creato una intera generazione globale di persone cresciuta in un contesto in cui il significato stesso daella parola **comuicazione** e **cultura** sono connessi all'idea di ...*"
+
+Da approfondire:
+- capitalismo della sorveglianza;
+- psicologia della persuasione
+- rinforzo positivo intermittente
+- hackeraggio della crescita
+
+Divisone Strumento non strumento:
+|strumento|non strumento|
+|---|---|
+|**Aspetta** di essere utilizzato|**Esige** delle cose da noi|
 ## Org
 - [Social Warming (org italiana per l’utilizzo consapevole di internet)](https://socialwarning.it/)
 ## Sites
