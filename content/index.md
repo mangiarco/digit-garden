@@ -17,6 +17,6 @@ You will find:
 
 # Credits
 This corner of the internet is: 
-- built with [Quartz](https://github.com/jackyzha0/quartz), a fast static-site generator that turns Markdown content into fully functional websites — huge kudos to [Jacky Zhao](https://github.com/jackyzha0)
+- built with [Quartz](https://github.com/jackyzha0/quartz), a fast static-site generator that turns Markdown content into fully functional websites — huge kudos to [Jacky Zhao](https://github.com/jackyzha0). My cloned repo is [this one](https://github.com/mangiarco/digit-garden).
 - hosted on [GitHub](https://github.com/), a cloud-based platform for storing, sharing, and collaborating on code, using [GitHub Pages](https://pages.github.com/)
 - written in [Obsidian](https://obsidian.md/), one of the most versatile and powerful free note-taking applications
