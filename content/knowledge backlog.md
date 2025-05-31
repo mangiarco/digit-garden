@@ -17,6 +17,14 @@ tags:
 - [Horror Pleni. La (in)civiltà del rumore](https://www.amazon.it/Horror-Pleni-civilt%C3%A0-del-rumore/dp/8876152253), Gillo Dorfles
 - [Flow. Psicologia dell'esperienza ottimale](https://www.amazon.it/Psicologia-dellesperienza-ottimale-Mih%C3%A1ly-Cs%C3%ADkszentmih%C3%A1lyi/dp/8836200389/ref=sr_1_1?sr=8-1), Mihály Csíkszentmihályi
 - [Il trauma della nascita. Sua importanza per la psicoanalisi](https://www.amazon.it/trauma-della-nascita-importanza-psicoanalisi/dp/8871987381#averageCustomerReviewsAnchor), Otto Rank {corso preparto}
+- Il ciclo dell'ecumene. Ursula K. Le Guin, con:
+  - Il mondo di Rocannon
+  - Il pianeta dell'esilio
+  - Città delle illusioni
+  - La mano sinistra delle tenebre
+  - I reietti dell'altro pianeta 
+  - Il mondo della foresta (!)
+  - La salvezza di Aka
 
 # Films
 - [The Double - Richard Ayoade](https://www.mymovies.it/film/2013/thedouble/) Adattamento cinematografico del romanzo di Fyodor Dostoyevsky, "Il doppio", il film racconta la storia di un uomo insignificante (Jesse Eisenberg) che viene portato quasi ad un esaurimento nervoso dalla comparsa di un suo sosia.

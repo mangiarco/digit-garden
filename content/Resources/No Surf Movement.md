@@ -66,4 +66,10 @@ Divisone Strumento non strumento:
 - [What's a typical No Surfing day look like for  - Reddit?](https://www.reddit.com/r/nosurf/comments/vips87/whats_a_typical_no_surfing_day_look_like_for_you/)
 
 
-
+### Theme: "Social Attention"
+- [Ethics of the Attention Economy: The Problem of Social Media Addiction](https://www.cambridge.org/core/journals/business-ethics-quarterly/article/ethics-of-the-attention-economy-the-problem-of-social-media-addiction/1CC67609A12E9A912BB8A291FDFFE799)
+- [Why The Social Dilemma is the most important documentary of our times](https://www.independent.co.uk/arts-entertainment/films/features/social-dilemma-netflix-film-media-facebook-twitter-algorithm-addiction-conspiracy-b454736.html)
+- [In social media’s battle for our attention, real connection becomes the casualty](https://www.rappler.com/technology/features/social-media-attention-battle-connection-love-tristan-harris/)
+- [The Negative Side Of ICT-Enabled Communication: The Case Of Social Interaction Overload In Online Social Networks](https://aisel.aisnet.org/ecis2013_cr/86/)
+- [The Problem of Social Cost - Ronal H. Coase](https://link.springer.com/chapter/10.1057/9780230523210_6)
+- [Understanding and combating link farming in the twitter social network](https://dl.acm.org/doi/10.1145/2187836.2187846)
