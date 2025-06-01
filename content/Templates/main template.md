@@ -1,8 +1,8 @@
 ---
-title: template
+title: title
 draft: true
 tags:
-  - tagshere
+  - tagshere
 ---
 #### Summary  
 {{summary}}
