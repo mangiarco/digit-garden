@@ -18,7 +18,7 @@ tags:
 <br>Che ancor sopravvivono, stampate senza vita su queste pietre,
 <br>Alla mano che le plasmava, e al sentimento che le alimentava:
 <br>E sul piedistallo, queste parole cesellate:
-<br>«Il mio nome è Ozymandias, re di tutti i re,[11]
+<br>«Il mio nome è Ozymandias, re di tutti i re,
 <br>Ammirate, Voi Potenti, la mia opera e disperate!»
 <br>Null'altro rimane. Intorno alle rovine
 <br>Di quel rudere colossale, spoglie e sterminate,

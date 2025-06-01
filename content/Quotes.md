@@ -11,7 +11,3 @@ tags:
 > *«Hunger is the first element of self-discipline. If you can control what you eat and drink, you can control everything else»* (unknown) 
 
 > *«The only person coming to save yo is the version of yourself that's tired of your current situation»* (unknown) 
-
-> *«»* (unknown)  
-
-> *«»* (unknown) 
