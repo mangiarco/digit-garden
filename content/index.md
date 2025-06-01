@@ -2,7 +2,7 @@
 title: Hello there
 draft: false
 ---
-Welcome to my digital garden 🪴 a virtual space where I periodically store all kinds of information I encounter throughout my life.
+Welcome to my digital garden 🌳🏠 a virtual space where I periodically store all kinds of information I encounter throughout my life.
 
 Information are stored following the [PARA method](./Resources/PARA%20Method.md), a tool created by Thiago Forte.
 

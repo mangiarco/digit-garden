@@ -9,10 +9,10 @@ tags:
   - socialnetwork
 ---
 
-#### Summary
+### Summary
 
 ---
-#### Key Ideas
+### Key Ideas
 - **If you don't pay for the product, you're the product**:
 
 > Se non paghi il prodotto, il prodotto sei tu. Secondo J. Lanier quello che paghiamo, il prodotto, è il “_graduale e impercettibile cambiamento della nostra percezione e del nostro comportamento_”.
@@ -25,15 +25,15 @@ tags:
 | **Aspetta** di essere utilizzato | **Esige** delle cose da noi |
 
 ---
-#### Identity Principle
+### Identity Principle
 > 
 
 ---
-#### Action Idea
+### Action Idea
 - 
 
 ---
-#### TGD
+### TGD
 - Center for Humane Technology
 - capitalismo della sorveglianza;
 - psicologia della persuasione
@@ -41,8 +41,8 @@ tags:
 - hackeraggio della crescita
 
 ---
-#### Sources
+### Sources
 - [The Social Dilemma - Netflix](https://www.netflix.com/title/81254224)
 ---
-#### Related Notes
+### Related Notes
 - [[No Surf Movement]]

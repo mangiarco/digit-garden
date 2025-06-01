@@ -9,10 +9,10 @@ tags:
   - "#nosurf"
   - socialmedia
 ---
-#### Summary
+### Summary
 
 ---
-#### Key Ideas
+### Key Ideas
 Engineeered aspects of social networks:
 - "Just more five minutes" phenomenon
 - Infinite scroll
@@ -38,15 +38,15 @@ But people always prefer something that is easy instead of good for us. for exam
 - Threat it like an **identity change** instead of an **habit change**
 
 ---
-#### Identity Principle
+### Identity Principle
 >
 
 ---
-#### Action Idea
+### Action Idea
 - 
 
 ---
-#### TGD
+### TGD
 - Dopamine release
 - Variable Ratio Reinforcemenet (VRR)
 - Digital Heroin
@@ -56,8 +56,8 @@ But people always prefer something that is easy instead of good for us. for exam
 	- phantom vibration
 
 ---
-#### Sources
+### Sources
 - [The Habit That FORCES Your Brain To STOP Consuming - ThatGuy (YT)](https://www.youtube.com/watch?v=R4MInIP2c-A)
 ---
-#### Related Notes
+### Related Notes
 - [[No Surf Movement]]

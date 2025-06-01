@@ -4,25 +4,25 @@ draft: true
 tags:
   - tagshere
 ---
-#### Summary  
+### Summary  
 {{summary}}
 
 ---
-#### Key Ideas
+### Key Ideas
 - 
 
 ---
-#### Identity Principle
+### Identity Principle
 > 
 
 ---
-#### Action Idea
+### Action Idea
 - 
 
 ---
-#### TGD
+### TGD
 - 
 
 ---
-#### Related Notes
+### Related Notes
 - [[ ]]
