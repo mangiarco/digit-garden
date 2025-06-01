@@ -1,12 +1,12 @@
 ---
-title: template
-draft: true
+title: Social dilemma documentary
+draft: false
 tags:
-  - netflix
-  - socialdilemma
-  - nosurf
-  - digitaldetox
-  - socialnetwork
+  - netflix
+  - socialdilemma
+  - nosurf
+  - digitaldetox
+  - socialnetwork
 ---
 
 #### Summary
