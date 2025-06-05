@@ -45,6 +45,9 @@ tags:
 - [MrBeast Onboardin Doc (Leaked)](https://www.linkedin.com/posts/tom-alder_mrbeast-production-rulebook-activity-7241415665838915585-h4D6?utm_source=share&utm_medium=member_desktop)
 - [Why is Happiness so Difficult to Find? Because You Look for It in the Future, Not In The Present](https://www.instagram.com/p/DHRQVIEyhA4/?img_index=1)
   
+# Notes
+- [ripcast_w_immanuel_casto.md](./Resources/ripcast_w_immanuel_casto.md)
+
 # Videos
 - [How I find time for EVERYTHING (even with a full time job)](https://www.youtube.com/watch?v=nXyPLFQeddA&ab_channel=KevZ)
 - [How to Achieve More in 1 Week than Most People Do in 12 months](https://www.youtube.com/watch?v=-oXigF0frLE&ab_channel=ClarkKegley)
@@ -53,6 +56,7 @@ tags:
 - [How To Simplify Your Life](https://www.youtube.com/watch?v=7lECIsRif10), The School of Life
 - [The Fakir’s Rest (2003)](https://www.youtube.com/watch?v=Qv3M7FxJqtM) - to be add to [Architettura ostile](./Resources/architettura%20ostile.md) page
 - [Perché il cervello vi acceca per 2 ore al giorno](https://www.youtube.com/watch?v=wo_e0EvEZn8)
+- [5-minutes-meditation](https://www.youtube.com/watch?v=wBFGWFTPB74)
 
 # Wikis
 - [Fine della storia](https://it.wikipedia.org/wiki/Fine_della_storia)
