@@ -1,5 +1,5 @@
 ---
-title: Pinacoteca
+title: pinacoteca
 draft: false
 tags:
   - art
