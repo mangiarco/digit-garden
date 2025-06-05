@@ -1,5 +1,5 @@
 ---
-title: Bookshelf
+title: bookshelf
 draft: false
 tags:
   - books

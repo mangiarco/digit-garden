@@ -1,5 +1,5 @@
 ---
-title: Quotes
+title: quotes
 draft: false
 tags:
   - quotes
