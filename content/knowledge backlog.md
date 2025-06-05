@@ -25,6 +25,8 @@ tags:
   - I reietti dell'altro pianeta 
   - Il mondo della foresta (!)
   - La salvezza di Aka
+- [Generalisti. Perché una conoscenza allargata, flessibile e trasversale è la chiave per il futuro](https://www.amazon.it/Generalisti-conoscenza-allargata-flessibile-trasversale/dp/B0CTD88YGV/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-1)
+- [Il tramonto dell'occidente]
 
 # Films
 - [The Double - Richard Ayoade](https://www.mymovies.it/film/2013/thedouble/) Adattamento cinematografico del romanzo di Fyodor Dostoyevsky, "Il doppio", il film racconta la storia di un uomo insignificante (Jesse Eisenberg) che viene portato quasi ad un esaurimento nervoso dalla comparsa di un suo sosia.
@@ -57,6 +59,8 @@ tags:
 - [The Fakir’s Rest (2003)](https://www.youtube.com/watch?v=Qv3M7FxJqtM) - to be add to [Architettura ostile](./Resources/architettura%20ostile.md) page
 - [Perché il cervello vi acceca per 2 ore al giorno](https://www.youtube.com/watch?v=wo_e0EvEZn8)
 - [5-minutes-meditation](https://www.youtube.com/watch?v=wBFGWFTPB74)
+- [La principale causa di morte dei rapporti umani | Immanuel Casto | TEDxPisogne](https://www.youtube.com/watch?v=SLvD9kew8h0)
+- [I tried Stephen King most productive writing routine & here’s what you need to know!](https://www.youtube.com/watch?v=fCNaKe1CEXw)
 
 # Wikis
 - [Fine della storia](https://it.wikipedia.org/wiki/Fine_della_storia)
