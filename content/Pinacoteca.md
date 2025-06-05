@@ -4,8 +4,6 @@ draft: false
 tags:
   - art
 ---
-![https://jwillott.com/wp-content/uploads/2025/03/The-Midnight-Hour_WEB-e1742408191485.jpg]() 
-
 # Bocklin, Arnold
 <a href="https://www.artesvelata.it/wp-content/uploads/2019/10/Arnold-B%C3%B6cklin-L%E2%80%99isola-dei-morti-Terza-versione-Arte-Svelata.jpg"><img src="https://www.artesvelata.it/wp-content/uploads/2019/10/Arnold-B%C3%B6cklin-L%E2%80%99isola-dei-morti-Terza-versione-Arte-Svelata.jpg"/></a>
 <i>L'isola dei morti (Die Toteninsel) vers. III<i> - Olio su tela (1883)
