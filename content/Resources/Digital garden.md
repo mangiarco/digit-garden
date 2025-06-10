@@ -4,6 +4,7 @@ tags:
   - digitalgarden
 ---
 <p align="center">🌳🌳🌳</p>
+
 > «Nature does not complete things. She is chaotic. Man must finish, and he does so by making a garden and building a wall» (Robert Lee Frost)
 
 First concept[^1]
