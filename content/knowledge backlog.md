@@ -25,6 +25,7 @@ tags:
   - La salvezza di Aka
 - [Generalisti. Perché una conoscenza allargata, flessibile e trasversale è la chiave per il futuro](https://www.amazon.it/Generalisti-conoscenza-allargata-flessibile-trasversale/dp/B0CTD88YGV/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-1)
 - [Il tramonto dell'occidente]
+- [Il Sosia - Fedor Dostoevskij](https://www.amazon.it/sosia-Ediz-integrale-F%C3%ABdor-Dostoevskij/dp/8863114439/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=books&sr=1-1#averageCustomerReviewsAnchor)
 
 # Films
 - [The Double - Richard Ayoade](https://www.mymovies.it/film/2013/thedouble/) Adattamento cinematografico del romanzo di Fyodor Dostoyevsky, "Il doppio", il film racconta la storia di un uomo insignificante (Jesse Eisenberg) che viene portato quasi ad un esaurimento nervoso dalla comparsa di un suo sosia.

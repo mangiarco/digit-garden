@@ -13,8 +13,8 @@ Second concept[^2]
 <p align="center">
 <figure>
   <img
-    src="https://media.istockphoto.com/id/1095826530/photo/crown-shyness-phenomenon-or-canopy-spacing-and-disengagement-of-tree-crown-that-avoid.jpg?s=612x612&w=0&k=20&c=uqMuPDiZ3U1xfTN9FDD4_Fr-dBD33JphP5NmH39B7X4="
-    alt="Elephant at sunset" />
+    src="https://i1.sndcdn.com/artworks-sIwEWimoMJ7xZns9-WWOOyA-t500x500.jpg"
+    alt="tree crown shyness" />
   <figcaption>This phenomenon is known as "tree crown shyness"</figcaption>
 </figure>
 </p> 
