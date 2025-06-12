@@ -5,7 +5,7 @@ tags:
   - tagshere
 ---
 ### TL;DR  
-{{summary}}
+
 
 ---
 ### Key Ideas
@@ -13,7 +13,7 @@ tags:
 
 ---
 ### Identity Principle
-> 
+> « »
 
 ---
 ### Action Idea
