@@ -7,6 +7,9 @@ tags:
   - mattdavella
 ---
 ### TL;DR  
+
+<p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsCWEfY138I6_NpYCAjEZGlH_E9ZSSkk70H3qWNZ1_ydJSa18NUwGWoXohAVHJWaPxZww&usqp=CAU" /></p>
+
 The 2-Day Rule is a simple productivity technique: don’t let more than two days pass without taking action on a task or decision. It helps prevent procrastination and builds consistency.
 
 ---
