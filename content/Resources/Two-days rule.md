@@ -1,6 +1,6 @@
 ---
 title: Two-day rule
-draft: true
+draft: false
 tags:
   - twodayrule
   - consistency
