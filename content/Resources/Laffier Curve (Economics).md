@@ -1,9 +1,10 @@
 ---
-title: title
+title: Laffier curve
 draft: false
 tags:
   - laffier
   - taxes
+  - economics
   - gdp
   - pil
 ---
