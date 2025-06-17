@@ -17,11 +17,9 @@ tags:
 
 ---
 ### Identity Principle
-> 
 
 ---
 ### Action Idea
-- 
 
 ---
 ### TGD
@@ -33,8 +31,6 @@ tags:
 
 ---
 ### Related Notes
-- [[ ]]
 
 ---
 ### Source
-- []()
