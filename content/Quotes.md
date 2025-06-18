@@ -16,3 +16,5 @@ tags:
 > (St. Paulus, Romans 7:15)
 
 >*«My house is clean enough to be healthy, but messy enough to be happy»* (unknown) 
+
+>*«Each time you open a book and read, a tree smiles knowing there's life after death»* (unknown) 
