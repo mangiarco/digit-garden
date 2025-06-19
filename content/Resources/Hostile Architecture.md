@@ -1,8 +1,9 @@
 ---
-title: Architettura Ostile
+title: Hostile Architecture
 draft: false
 tags:
-  - architetturaostile
+  - hostilearchitecture
+  - arcitecture
 ---
 
 # Sources
