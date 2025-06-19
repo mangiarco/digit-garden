@@ -13,8 +13,10 @@ tags:
     alt="tree crown shyness" />
   <figcaption>This phenomenon is known as "tree crown shyness"</figcaption>
 </figure> 
+
 First concept[^1]
 Second concept[^2]
+
 ## How to take care of your digital garden
 Here are my personal best practices to take care of my digital garden:
 1. **Collect as many seeds as possible**: the web is a endless source of useful, fascinating, astonishing and bizzarre music, information, photos and ideas. So take care of your future self's curiosity and try to fill your [[knowledge backlog]] with as much information as you encounter over time; 
@@ -31,7 +33,7 @@ How can we really describe a digital garden in a few words? It is built using no
 
 **In my opinion**, at some point, our critical thinking — if we have it — should reveal itself by questioning the method itself.  
 This happened to me when I began maintaining my digital garden on a daily basis.  
-The root cause of my doubt comes directly from the [[Map–Territory relation]] fallacy described by Alfred Korzybski: **the “plants” in the garden are not knowledge**.  
+The root cause of my doubt comes directly from the [[Map-Territory relation]] fallacy described by Alfred Korzybski: **the “plants” in the garden are not knowledge**.  
 This entire "territory" is just an exploration tool — nothing more.  
 It is not complete, and it is not exhaustive. It only reflects the gardener’s **subjective process of meaning-making**, because notes are living reflections of the one who takes them.  
 In that sense, they say more about the gardener than about the concepts they attempt to capture.
