@@ -70,8 +70,11 @@ tags:
 - [MrBeast Onboardin Doc (Leaked)](https://www.linkedin.com/posts/tom-alder_mrbeast-production-rulebook-activity-7241415665838915585-h4D6?utm_source=share&utm_medium=member_desktop)
 - [Why is Happiness so Difficult to Find? Because You Look for It in the Future, Not In The Present](https://www.instagram.com/p/DHRQVIEyhA4/?img_index=1)
 - [9 Visual Reminders for Growth & Mindset | LinkedIn](https://www.linkedin.com/feed/update/urn:li:groupPost:8256390-7342718753903673344/?rcm=ACoAAASGU8QB_ZO6STiRVxLne_dtGGxA4MOAdLE)
+- [140+ data engineering 101 ETL - Terminology | LinkedIn](https://www.linkedin.com/posts/abhisek-sahu-84a404b1_140-etl-terminology-ugcPost-7342423609799286784-sABu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAASGU8QB_ZO6STiRVxLne_dtGGxA4MOAdLE)
+  
 # Sites
 - [The LM Book | Andriy Burkov site](https://www.thelmbook.com/)
+
 # Videos
 - [How I find time for EVERYTHING (even with a full time job)](https://www.youtube.com/watch?v=nXyPLFQeddA&ab_channel=KevZ)
 - [How to Achieve More in 1 Week than Most People Do in 12 months](https://www.youtube.com/watch?v=-oXigF0frLE&ab_channel=ClarkKegley)
