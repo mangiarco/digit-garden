@@ -1,6 +1,6 @@
 ---
 title: music
-draft: false
+hide: true
 tags:
   - music
 ---
