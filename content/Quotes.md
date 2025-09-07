@@ -10,7 +10,7 @@ tags:
 
 > *«Hunger is the first element of self-discipline. If you can control what you eat and drink, you can control everything else»* (unknown) 
 
-> *«The only person coming to save yo is the version of yourself that's tired of your current situation»* (unknown) 
+> *«The only person coming to save you is the version of yourself that's tired of your current situation»* (unknown) 
 
 > *«I do not understand what I do. For what I want to do I do not do, but what I hate I do.»*  
 > (St. Paulus, Romans 7:15)
