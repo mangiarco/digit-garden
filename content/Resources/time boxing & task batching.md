@@ -31,7 +31,7 @@ tags:
 
 ---
 ### Related Notes
-- [[ ]]
+- 
 
 ---
 ### Source
