@@ -9,11 +9,11 @@ tags:
   - 
 ---
 
-Fenomeno conosciuto anche come **Intention-Behavior Dissociation** o **Social Reality Effect** per quale quando dichiariamo pubblicamente i nostri obiettivi, il cervello può confondere la **riconoscenzasociale** con il **compito reale dell'azione**. In questo modo si può verificare un abbasamento della motivazione ed una riduzione della probabilità che si agista.
+A phenomenon also known as **Intention-Behavior Dissociation** or the **Social Reality Effect**, in which, when we publicly declare our goals, the brain can confuse **social acknowledgment** with the **actual task of taking action**. This can lead to a decrease in motivation and a reduced likelihood of following through.
 
-Il fenomeno è stato studiato da Peter Gollwitzer, uno psicologo sociale che, nel suo lavoro sulle **intenzioni di implementazione** (*implementation intentions*) ha dimostrato che il parlare delle intenzioni può effettivamente interferire con il comportamento, se questo parlare non è accompagnato da un concetro e dettagliato piano o programma.
+The phenomenon was studied by Peter Gollwitzer, a social psychologist who, in his work on **implementation intentions**, demonstrated that talking about intentions can indeed interfere with behavior if this talking is not accompanied by a concrete and detailed plan or program.
 
-Secondo Gollwitzer una gratificazione prematura (dovuta dall'aver condiviso l'intenzione del compito e l'aver incassato l'ammirazione delle persone a cui lo si è detto) può portare ad una **dissociazioen tra intenzione e comportamento** (*intention-behavior gap*)
+According to Gollwitzer, **premature gratification** (resulting from sharing the intention and receiving admiration from others) can lead to an **intention-behavior gap**, a dissociation between intention and action.
 
 # Sources
 - [Implementation Intentios - Peter M. Gollwitzer | Research Gate](https://www.researchgate.net/publication/232586066_Implementation_Intentions_Strong_Effects_of_Simple_Plans)

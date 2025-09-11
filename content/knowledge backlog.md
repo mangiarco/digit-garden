@@ -30,7 +30,7 @@ Table of contents
 - [Flow. Psicologia dell'esperienza ottimale](https://www.amazon.it/Psicologia-dellesperienza-ottimale-Mih%C3%A1ly-Cs%C3%ADkszentmih%C3%A1lyi/dp/8836200389/ref=sr_1_1?sr=8-1), Mihály Csíkszentmihályi
 - [Il trauma della nascita. Sua importanza per la psicoanalisi](https://www.amazon.it/trauma-della-nascita-importanza-psicoanalisi/dp/8871987381#averageCustomerReviewsAnchor), Otto Rank {corso preparto}
 - Il ciclo dell'ecumene. Ursula K. Le Guin, con:
-  - Il mondo di Rocannon
+  - ✅Il mondo di Rocannon
   - Il pianeta dell'esilio
   - Città delle illusioni
   - La mano sinistra delle tenebre
@@ -48,7 +48,7 @@ Table of contents
 - [Intelligenze aliene. Linguaggio e vita degli automi | Guido Vetere](https://www.amazon.it/Intelligenze-aliene-Linguaggio-degli-automi/dp/B0DK2HDHHF/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-1)
 
 # Films
-- [The Double - Richard Ayoade](https://www.mymovies.it/film/2013/thedouble/) Adattamento cinematografico del romanzo di Fyodor Dostoyevsky, "Il doppio", il film racconta la storia di un uomo insignificante (Jesse Eisenberg) che viene portato quasi ad un esaurimento nervoso dalla comparsa di un suo sosia.
+- ✅[The Double - Richard Ayoade](https://www.mymovies.it/film/2013/thedouble/) Adattamento cinematografico del romanzo di Fyodor Dostoyevsky, "Il doppio", il film racconta la storia di un uomo insignificante (Jesse Eisenberg) che viene portato quasi ad un esaurimento nervoso dalla comparsa di un suo sosia.
 - [Kin-Dza-Dza! - Georgij Nikolaevič](https://www.youtube.com/watch?v=EYHv8eJrW2Y)
 - [Le avventure del barone di Munchausen](https://www.youtube.com/watch?v=tKuD6_HaqyA)
 

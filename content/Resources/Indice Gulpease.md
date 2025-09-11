@@ -5,7 +5,6 @@ tags:
   - testo
   - leggibilità
   - gulpease
-  - index
 ---
 ### TL;DR  
 
