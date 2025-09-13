@@ -7,7 +7,7 @@ tags:
 ---
 ### TL;DR  
 
-![[moravec_paradox.png]]
+![[../images/moravec_paradox.png]]
 
 ---
 ### Key Ideas
