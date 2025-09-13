@@ -7,7 +7,7 @@ tags:
 ---
 ### TL;DR  
 
-![[Pasted image 20250913231235.png]]
+![[moravec_paradox.png]]
 
 ---
 ### Key Ideas
