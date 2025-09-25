@@ -14,8 +14,8 @@ tags:
 |**Published**|2000|
 |**Pages**|112pp|
 
-[.azw3](../Books/Chi%20ha%20spostato%20il%20mio%20formaggio/Chi%20Ha%20Spostato%20il%20Mio%20Formaggio%20-%20Spencer%20Johnson.azw3)
-[.epub](../Books/Chi%20ha%20spostato%20il%20mio%20formaggio/Chi%20Ha%20Spostato%20il%20Mio%20Formaggio%20-%20Spencer%20Johnson.epub)
+[.azw3](./chi_ha_spostato_il_mio_formaggio/chi_ha_spostato_il_mio_formaggio_spencer_johnson.azw3)
+[.epub](./chi_ha_spostato_il_mio_formaggio/chi_ha_spostato_il_mio_formaggio_spencer_johnson.epub)
 
 # Bookshelf
 Complete list of books [here](../../Bookshelf.md)
