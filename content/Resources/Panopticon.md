@@ -15,4 +15,4 @@ tags:
 </div>
 
 # Sources
-- **[Sorvegliare e punire](../Bookshelf.md)**, *M. Foucault*, *ET Saggi*, *2014*, *340pp*
+- **Sorvegliare e punire**, *M. Foucault*, *ET Saggi*, *2014*, *340pp*

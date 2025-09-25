@@ -1,5 +1,5 @@
 ## Metadata
-* Author: [[Etienne De La Boètie]]
+* Author: Etienne De La Boètie
 ## Highlights
 Per ora vorrei solo comprendere come è possibile che tanti uomini, tanti borghi, tante città, tante nazioni sopportino talvolta un tiranno solo, che non ha forza se non quella che essi gli danno, che ha il potere di danneggiarli unicamente in quanto essi vogliono sopportarlo, che non potrebbe far loro alcun male se essi non preferissero subirlo invece di contrastarlo   — pp: 9
 

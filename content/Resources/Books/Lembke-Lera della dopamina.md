@@ -7,7 +7,7 @@ kindle-sync:
 ---
 # Lera della dopamina
 ## Metadata
-* Author: [[Anna Lembke]]
+* Author: Anna Lembke
 
 ## Highlights
 Oltre alla scoperta della dopamina, una delle evidenze neuroscientifiche più rilevanti del secolo scorso riguarda il fatto che il cervello elabora sia il piacere sia il dolore nelle stesse strutture neurali. Inoltre, abbiamo compreso che il piacere e il dolore funzionano come fattori opposti che determinano un equilibrio. — location: [66]() ^ref-49371

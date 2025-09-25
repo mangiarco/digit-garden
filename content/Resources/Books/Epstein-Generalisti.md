@@ -7,7 +7,7 @@ kindle-sync:
 ---
 # Generalisti
 ## Metadata
-* Author: [[David Epstein]]
+* Author: David Epstein
 
 ## Highlights
 periodo di sampling” — location: [184]() ^ref-3682

@@ -7,7 +7,7 @@ kindle-sync:
 ---
 # Walden ovvero Vita nei boschi
 ## Metadata
-* Author: [[Henry D. Thoreau]]
+* Author: Henry D. Thoreau
 
 ## Highlights
 Ma gli uomini s’affaticano poiché partono da principi sbagliati. — location: [928]() ^ref-57010
