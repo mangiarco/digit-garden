@@ -13,10 +13,6 @@ tags:
     alt="tree crown shyness" />
   <figcaption>This phenomenon is known as "tree crown shyness"</figcaption>
 </figure> 
-
-First concept[^1]
-Second concept[^2]
-
 ## How to take care of your digital garden
 Here are my personal best practices to take care of my digital garden:
 1. **Collect as many seeds as possible**: the web is a endless source of useful, fascinating, astonishing and bizzarre music, information, photos and ideas. So take care of your future self's curiosity and try to fill your [[knowledge backlog]] with as much information as you encounter over time; 
@@ -44,5 +40,4 @@ The only advice I can offer is: **enjoy the garden**, but always remember that e
 ---
 
 [^1]: [Digital gardens let you cultivate your own little bit of the internet](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/)
-
 [^2]: [I giardini digitali: cosa succede quando il web esce dagli schemi?](https://www.shots.it/news/i-giardini-digitali-cosa-succede-quando-il-web-esce-dagli-schemi)

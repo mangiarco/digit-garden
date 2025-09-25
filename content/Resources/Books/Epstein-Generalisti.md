@@ -13,10 +13,10 @@ kindle-sync:
 periodo di sampling” — location: [184]() ^ref-3682
 
 ---
-Tom Brady) — location: [203]() ^ref-7598
+Tom Brady — location: [203]() ^ref-7598
 
 ---
-(Nick Foles — location: [204]() ^ref-51978
+Nick Foles — location: [204]() ^ref-51978
 
 ---
 Ester Ledecká — location: [204]() ^ref-18965
