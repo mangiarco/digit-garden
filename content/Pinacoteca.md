@@ -8,6 +8,10 @@ tags:
 <a href="https://www.artesvelata.it/wp-content/uploads/2019/10/Arnold-B%C3%B6cklin-L%E2%80%99isola-dei-morti-Terza-versione-Arte-Svelata.jpg"><img src="https://www.artesvelata.it/wp-content/uploads/2019/10/Arnold-B%C3%B6cklin-L%E2%80%99isola-dei-morti-Terza-versione-Arte-Svelata.jpg"/></a>
 <i>L'isola dei morti (Die Toteninsel) vers. III<i> - Olio su tela (1883)
 
+# de Breville, Jacques Marie Gaston Onfroy  
+<a href="https://www.worldhistory.org/img/r/p/1500x1500/16149.jpg.webp?v=1748213464-1657783983"><img src="https://www.worldhistory.org/img/r/p/1500x1500/16149.jpg.webp?v=1748213464-1657783983"/></a>
+<i>Giovane Napoleone Bonaparte studia all'Accademia militare a Brienne-le-Chateau, Francia - Olio su tela (1780)
+
 # Koscianski, Leonard 
 <table>
   <tr>
