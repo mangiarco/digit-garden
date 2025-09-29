@@ -18,7 +18,7 @@ This ensures that creators are fairly compensated for their work, allowing them 
 
 **Unlocking knowledge without cost encourages curiosity and innovation, but this advantage does not come without the responsibility of sustain the valuable cycle of creation**.
 
-- Spencer Johnson, Chi ha spostato il mio formaggio? Cambiare se stessi in un mondo che cambia in azienda, a casa, nella vita di tutti i giorni 
+- **Spencer Johnson**, *Chi ha spostato il mio formaggio? Cambiare se stessi in un mondo che cambia in azienda, a casa, nella vita di tutti i giorni* 
   - [my personal notes and highlights](#)
   - [download](../content/Resources/Books/download/chi_ha_spostato_il_mio_formaggio.rar)
 -  []() | []() 
