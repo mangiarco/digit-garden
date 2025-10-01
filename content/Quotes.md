@@ -19,6 +19,8 @@ tags:
 
 >*«Each time you open a book and read, a tree smiles knowing there's life after death»* (unknown) 
 
+>*Don't ask for permission to fly: the wings are yours, and the sky belongs to no one»* (unknown)
+
 >*Goditi potere e bellezza della tua gioventù. Non ci pensare! Il potere di bellezza e gioventù lo capirai solo una volta appassite. Ma credimi, tra vent'anni guarderai quelle tue vecchie foto, e in un modo che non puoi immaginare adesso. Quante possibilità avevi di fronte e che aspetto magnifico avevi! Non eri per niente grasso come ti sembrava.*
 >
 > *Accetta il consiglio - The Big KahunaNon preoccuparti del futuro. Oppure preoccupati, ma sapendo che questo ti aiuta quanto masticare un chewing-gum per risolvere un'equazione algebrica. I veri problemi della vita saranno sicuramente cose che non ti erano mai passate per la mente. Di quelle che ti pigliano di sorpresa alle quattro di un pigro martedì pomeriggio.*
