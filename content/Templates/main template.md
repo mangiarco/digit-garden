@@ -1,8 +1,10 @@
 ---
-title: title
+title: main_template
 draft: true
 tags:
   - tagshere
+is a template: true
+---
 ---
 ### TL;DR  
 
