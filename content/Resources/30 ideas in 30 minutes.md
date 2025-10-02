@@ -5,8 +5,6 @@ tags:
   - framework
   - productivity
   - contentcreation
-  - tagshere
-is a template: true
 ---
 ```
 DISCLAIMER:
