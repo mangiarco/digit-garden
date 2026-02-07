@@ -1,6 +1,6 @@
 ---
 title: bookshelf
-draft: false
+draft: true
 tags:
   - books
 ---
