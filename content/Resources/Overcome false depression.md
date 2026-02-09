@@ -1,6 +1,6 @@
 ---
 title: Overcome_false_depression
-draft: true
+draft: false
 tags:
   - depression
   - ikigai
